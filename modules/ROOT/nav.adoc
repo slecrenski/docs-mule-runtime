@@ -84,7 +84,7 @@
   *** xref:application-deployment.adoc[Application Deployment]
   *** xref:hot-deployment.adoc[Hot Deployment]
  ** xref:mmp-concept.adoc[Mule Maven Plugin]
-* xref:mule-standalone.adoc[On-Premise Mule Instances]
+* xref:mule-standalone.adoc[On-Premises Mule Instances]
  ** xref:mule-standalone.adoc[Setting-up a Mule Instance]
   *** xref:hardware-and-software-requirements.adoc[Hardware and Software Requirements]
   *** xref:runtime-installation-task.adoc[Downloading and Installing Mule]
