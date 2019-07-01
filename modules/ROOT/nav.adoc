@@ -30,8 +30,7 @@
   *** xref:for-each-scope-concept.adoc[For Each Scope]
   *** xref:idempotent-message-validator.adoc[Idempotent Message Validator]
   *** xref:logger-component-reference.adoc[Logger Component]
-  //COMING SOON AFTER 4.2 RELEASE
-  //** xref:parallel-foreach-scope.adoc[Parallel For Each Scope]
+  *** xref:parallel-foreach-scope.adoc[Parallel For Each Scope]
   *** xref:parse-template-reference.adoc[Parse Template Component]
   *** xref:raise-error-component-reference.adoc[Raise Error Component]
   *** xref:round-robin.adoc[Round Robin Router]
@@ -85,7 +84,7 @@
   *** xref:application-deployment.adoc[Application Deployment]
   *** xref:hot-deployment.adoc[Hot Deployment]
  ** xref:mmp-concept.adoc[Mule Maven Plugin]
-* xref:mule-standalone.adoc[Standalone Mule Instances]
+* xref:mule-standalone.adoc[On-Premise Mule Instances]
  ** xref:mule-standalone.adoc[Setting-up a Mule Instance]
   *** xref:hardware-and-software-requirements.adoc[Hardware and Software Requirements]
   *** xref:runtime-installation-task.adoc[Downloading and Installing Mule]
