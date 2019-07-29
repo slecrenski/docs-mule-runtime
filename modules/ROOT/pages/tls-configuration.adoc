@@ -114,7 +114,7 @@ Enter key password for <serverkey>  (RETURN if same as keystore password):
 . Enter the command to export a self-signed certificate authenticating the public key.
 +
 ----
-keytool -export -alias serverkey -keystore httplistener.jks -file server_cert.cer
+keytool -export -alias serverkey -keystore mykeystore.jks -file server_cert.cer
 ----
 +
 . Respond to the prompt to enter the password you set up for the KeyStore associated with the certificate.
